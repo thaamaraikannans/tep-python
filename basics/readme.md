@@ -40,7 +40,7 @@
    * Type `python hello.py` and press Enter.
    * The output "Hello, World!" will be displayed in the terminal.
 
-### Understanding Variables in Python
+### Understanding Variables and Datatypes in Python
 
 A variable is a named storage location that holds a value. You can assign different data types to variables.
 
