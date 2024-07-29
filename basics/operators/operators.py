@@ -1,3 +1,17 @@
+# Arthimetic Operators
+a = -20
+b = 5
+
+
+# c = a/b
+# c = a%b
+# c = a//b
+# c = a+b
+c = a-b
+print(c)
+print(type(c))
+
+
 # Comparision Operators
 
 # ==
@@ -12,6 +26,8 @@ b = -21
 
 c = (a==b)
 d = (a>=b)
+
+# Logical operators 
 # print(c and d)
 # print(c or d)
 print(c or (not d))
