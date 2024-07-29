@@ -1,6 +1,4 @@
-## README.md
-
-### TEP - Python Class
+## TEP - Python Class
 
 **Welcome to the TEP - Python Class Programs repository!**
 
@@ -10,8 +8,7 @@ This repository contains Python code examples and exercises covering various top
 
 The repository is organized into the following directories:
 
-* **basics:** Fundamental Python concepts like data types, operators, control flow, functions, etc.
-* **data_structures:** Topics on lists, tuples, dictionaries, sets, and their operations.
+* **basics:** Fundamental Python concepts like data types, operators, control flow, Topics on lists, tuples, dictionaries, sets, and their operations.
 * **modules:** Modularization concepts, including funtions, objects, scopes, etc.
 * **file_handling:** Working with files, including reading, writing, and manipulating files.
 * **exceptions:** Handling errors and exceptions in Python.
@@ -28,7 +25,7 @@ Each directory contains Python scripts (.py files) with clear and concise code e
    ```
 2. **Navigate to the desired directory:**
    ```bash
-   cd tep-python/basics
+   cd tep-python/basics/fundamentals
    ```
 3. **Run the Python script:**
    ```bash
